@@ -5,7 +5,7 @@ Bonjour, je suis Alix-Pierre Pestourie 👋
 - 🔭 En ce moment : un agent de surveillance d'intégrité de fichiers (FIM) et une application mobile de capture de liens
 - 🎓 Avant l'EILCO : classe préparatoire TSI à La Rochelle
 - 💼 Cofondateur d'ULTRA.Digital, société de création de sites web
-- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/alix-pestourie-343969331/)
+- 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/alix-pierre-pestourie-343969331/)
 
 ### Projets
 

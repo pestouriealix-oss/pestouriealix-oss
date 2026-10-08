@@ -1,6 +1,6 @@
 Bonjour, je suis Alix-Pierre Pestourie 👋
 
-Élève ingénieur en informatique à l'**EILCO** (Calais), en deuxième année du cycle ingénieur. Je m'oriente vers la **cybersécurité**.
+Élève ingénieur en informatique à l'**EILCO** (Calais), en deuxième année du cycle ingénieur.
 
 - 🔭 En ce moment : un agent de surveillance d'intégrité de fichiers (FIM) et une application mobile de capture de liens
 - 🎓 Avant l'EILCO : trois ans de classe préparatoire TSI à La Rochelle

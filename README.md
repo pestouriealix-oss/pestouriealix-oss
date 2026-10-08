@@ -3,7 +3,7 @@ Bonjour, je suis Alix-Pierre Pestourie 👋
 Élève ingénieur en informatique à l'**EILCO** (Calais), en deuxième année du cycle ingénieur.
 
 - 🔭 En ce moment : un agent de surveillance d'intégrité de fichiers (FIM) et une application mobile de capture de liens
-- 🎓 Avant l'EILCO : trois ans de classe préparatoire TSI à La Rochelle
+- 🎓 Avant l'EILCO : classe préparatoire TSI à La Rochelle
 - 💼 Cofondateur d'ULTRA.Digital, société de création de sites web
 - 📫 Me contacter : [LinkedIn](https://www.linkedin.com/in/alix-pestourie-343969331/)
 
